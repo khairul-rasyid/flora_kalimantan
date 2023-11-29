@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Flora Kalimantan</string>
+
+    <string name="name">Nama Flora</string>
+    <string name="desc">Deskripsi</string>
+
+    <string name="name_profile">Khairul Rasyid</string>
+    <string name="email">berkahzamzam6@gmail.com</string>
+
+    <string-array name="name">
+        <item>Balau</item>
+        <item>Belangeran</item>
+        <item>Bengkirai</item>
+        <item>Kapur</item>
+        <item>Kempas</item>
+        <item>Keruing</item>
+        <item>Mentibu</item>
+        <item>Meranti Merah</item>
+        <item>Meranti Putih</item>
+        <item>Merbau</item>
+        <item>Mersawa</item>
+        <item>Resak</item>
+        <item>Ulin</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Balau mempunyai nama botanis Shore spp. dan Hopea spp., famili Dipterocarpaceae. Tinggi pohon 20 - 50 m, panjang batang bebas cabang 10 - 35 m, diameter sampai 160 cm, banir dapat mencapai tinggi 3,5 m. Ciri umum kayu balau adalah kayu teras berwarna coklat muda atau kuning-coklat muda yang lambat laun menjadi coklat tua. Karena kekuatan dan keawetan kayu balau yang tinggi, digunakan untuk jembatan, bantalan, tiang listrik, lantai, bangunan maritim, perkapalan, perumahan, karoseri, batang cikar, sumbu gilingan, bahkan dipergunakan juga untuk membuat tong atau jenis wadah lainnya.</item>
+        <item>Belangeran mempunyai nama botanis Shorea be/angeran (Korth.) Burck, famili Dipterocarpaceae. Di Kalimantan belangeran dikenal juga dengan nama balangiran, belangiran, kahoi, kahul, dan kawi. Tinggi pohon 20 - 25 m, dengan panjang batang bebas cabang sampai 15 m, diameter 50 cm, tidak berbanir. Kulit luar berwarna merah tua sampai hitam, sedikit beralur dangkal, tidak mengelupas, tebal 1 - 3 cm. Kayu belangeran dapat dipakai untuk balok dan papan pada bangunan perumahan dan jembatan, lunas perahu, bantalan dan tiang listrik.</item>
+        <item>Bangkirai mempunyai nama botanis Shorea /aevis Ridl. (syn. S.laevifolia Endert), famili Dipterocarpaceae. Bangkirai dikenal juga dengan sebutan anggelam, dan benuas. Penyebaran bangkirai adalah seluruh Kalimantan. Tinggi pohon bangkirai sampai 50 m dengan panjang batang bebas cabang 35 - 40 m, diameter 100 cm atau lebih, tinggi banir sampai 2 m. Kulit luar berwarna kelabu, merah atau coklat, kadang-kadang sampai merah tua, beralur dan mengelupas kecil-kecil, tipis, berdamar warna kuning tua. Karena kekuatan dan kewaetan yang tinggi, kayu bangkirai dipergunakan untuk konstruksi berat di bawah atau maupun di tempat terbuka, antara lain untuk bangunan jembatan, bantalan, tiang listrik, lantai, bangunan maritim, perkapalan, karoseri dan perumahan</item>
+        <item>Kapur  mempunyai  nama  botanis  Dryoba/anops  spp.,  famili Dipterocarpaceae, terutama D. aromatica Gaertn. (Kapur singkel). Kapur mempunyai nama daerah diantaranya ampadu, ampalang, awang tanet, bayau, belakan, bindari, empedu, kalampait, kapur, kapur hitam, kapur kedemba, kapur merah, kapur naga, kapur sintuk, kapur tanduk, kapur tulang, kayatan, keladan, melampait, mengkayat, mohoi, muri, serapan, sintok, tulai, dan wahai. Tinggi pohon umumnya berkisar antara 35 - 45 m dan dapat mencapai 60 m, panjang batang bebas cabang 30 m atau lebih, diameter 80 - 100 cm, bentuk batang silindris, lurus dengan tajuk kecil, kadang-kadang berbanir sampai 2 m. Kayu D. aromatica dapat dipakai untuk balok, tiang, rusuk dan papan pada bangunan perumahan dan jembatan, serta dapat juga dipakai untuk perkapalan, peti (koper), mebel dan juga peti mati.</item>
+        <item>Kempas  mempunyai  nama  botanis Koompassia  malaccensis Maing., famili Caesa/piniaceae. Nama lain kempas di daerah Kalimantan diantaranya ampas, bengaris, berniung, empas, gemaris, gembris, hampas, impas, kampas, kempas, mengerih, menggeris, pah, sabanting, dan umpas. Karena kekerasannya yang sangat tinggi, sedang keawetannya rendah, kayu kempas jarang dipergunakan sebagai bahan bangunan. Penduduk banyak memakainya untuk rumah (balok) alat serut, tetapi jarang untuk mebel. Jenis kayu ini menghasilkan arang yang sangat baik. Kayu banir yang lebih padat, lebih berat, dan lebih awet dari kayu batang banyak dipergunakan sebagai daun meja.</item>
+        <item>Keruing mempunyai nama botanis 0ipterocarpus spp., famili Dipterocarpaceae. Nama lain keruing di daerah Kalimantan diantaranya anderi, ansurai, karup, keladan, kerup, ketanggang, tempudau, dan tempurau. Tinggi pohon dapat mencapai 50 m dengan panjang batang bebas cabang sampai 35 m, diameter dapat mencapai 120 cm, bentuk batang silindris, berbanir 1 - 2 m. Kayu keruing cocok untuk konstruksi bangunan, lantai, karoseri (kerangka, lantai, dan dinding), bangunan pelabuhan dan bantalan kereta api. Selain daripada itu banyak juga dipakai untuk perkapalan (dek dan kulit tongkang) dan bagian perumahan (balok, tiang, papan dan kerangka atap). Untuk semua penggunaan dimana terdapat serangan jamur, serangga atau binatang laut perusak kayu, kayu keruing harus diawetkan dengan bahan pengawet yang sesuai. Setelah diawetkan kayu keruing baik untuk dipergunakan sebagai bantalan dan tiang listrik.</item>
+        <item>Mentibu mempunyai nama botanis Dacty/oc/adus stenostachys Oliv., famili Me/astomataceae. Tinggi pohon 30 - 40 m, panjang batang bebas cabang 15- 25 m, diameter 50 - 100 cm, tajuk hampir bulat dan bercabang besar, batang agak berlekuk-lekuk, tidak berbanir, kulit luar berwarna kelabu atau coklat kekuning-kuningan, pecah-pecah kecil dan bermiang yang menyebabkan gatal. Kayu mentibu banyak dipergunakan untuk papan cetakan beton, konstruksi perumahan bagian dalam, kayu lapis, mebel murah, di Serawak dipergunakan sebagai sirap setelah diawetkan dengan minyak mentah.</item>
+        <item>Meranti merah mempunyai nama botanis Shore spp., famili Dipterocarpaceae. Tinggi pohon dapat mencapai 50 m, panjang batang bebas cabang sampai 30 m, diameter umumnya sekitar 100 cm, banir S. Leprosula berukuran tinggi 3,5 m lebar 2,5 m dan tebal 20 cm, kulit luar berwarna kelabu atau coklat, tebal kulit lebih kurang 5 mm. Kayu meranti merah terutama dipakai untuk venir dan kayu lapis, disamping itu dapat juga dipakai untuk bangunan perumahan sebagai rangka, balok, galar, kaso, pintu dan jendela, dinding, lantai, dan sebagainya.</item>
+        <item>Meranti putih mempunyai nama botanis Shorea spp., famili Dipterocarpaceae. Tinggi pohon 12 - 55 m, panjang batang bebas cabang 8 - 37 m, diameter dapat mencapai 180 cm, bentuk batang lurus dan silindris dengan banir yang dapat mencapai tinggi 3,5 m. Kayu meranti putih terutama dipakai untuk venir dan kayu lapis. Selain itu dipakai juga untuk papan partikel, lantai, bangunan dan perkapalan. Jenis kayu ini pernah dipakai untuk tong minyak palm dan mungkin juga baik untuk karoseri atau mebel, asal dipergunakan alat-alat yang sesuai untuk mengerjakannya.</item>
+        <item>Merbau mempunyai nama botanis lntsia spp., famili Caesa/piniaceae. Di Kalimantan kayu ini dikenal juga dengan nama daerah alai, anglai, ipil, jumelai, maharau. Tinggi pohon dapat mencapai 40 m dengan panjang batang bebas cabang 4 - 30 m, diameter sampai 100 cm, tinggi banir sampai 4 m dengan lebar sampai 4 m.</item>
+        <item>Mersawa mempunyai nama botanis Anisoptera spp., famili Dipterocarpaceae. Tinggi pohon sampai 45 m, panjang batang bebas cabang 15 - 35 m, diameter sampai 150 cm, bentuk batang silindris. Ciri umum kayu mersawa antara lain: kayu teras berwarna kuning kejingga-jinggaan kotor, kuning kotor atau kuning-kelabu, kayu yang masih segar kadang-kadang berwarna merah atau coklat-merah.</item>
+        <item>Resak mempunyai nama botanis Vatica spp., famili Dipterocarpaceae. Tinggi pohon 25 - 35 m, panjang batang bebas cabang 10 - 20 m, diameter 40 - 80 cm, tidak berbanir. Kulit luar berwarna kelabu-putih, tidak beralur, sedikit mengelupas, mengeluarkan damar berwarna putih atau putih kuning. Kayu resak cocok untuk tiang dalam tanah dan air, juga dapat dipakai untuk balok, rusuk dan papan pada bangunan perumahan, kayu pertambangan, lantai, balok gerbong, tiang listrik, perkapalan, sirap ambang jendela, rangka pintu dan jendela, bantalan, barang bubutan dan kabinet.</item>
+        <item>Ulin mempunyai nama botanis Eusideroxylon zwageri T. et S., famili Lauraceae. Ulin dikenal juga dengan nama belian, tabulin, telian, dan tulian di daerah Kalimantan. Tinggi pohon sampai 35 m dengan panjang batang bebas cabang 5 - 20 m, diameter sampai 100 cm, kadang-kadang sampai 150 cm, berbanir sampai tinggi 4 m, lebar 10 m dan tebal 15 - 40 cm. Kayu ulin dapat dipakai untuk tiang landasan dalam tanah, balok, papan lantai, mebel, dan ukiran untuk hiasan rumah. Selain itu, juga dapat digunakan untuk sirap, bangunan maritim, tiang, balok, kerangka atau papan pada bangunan perumahan dan jembatan, bantalan, pintu air, balok, pelapis jalan, tiang pagar, balok percetakan, patok, karoseri, perkapalan, keser penyarad, tiang listrik dan sumpit makan.</item>
+    </string-array>
+
+    <integer-array name="photo">
+        <item>@drawable/balau_1</item>
+        <item>@drawable/belangeran_1</item>
+        <item>@drawable/bengkirai_1</item>
+        <item>@drawable/kapur_1</item>
+        <item>@drawable/kempas_1</item>
+        <item>@drawable/keruing_1</item>
+        <item>@drawable/mentibu_1</item>
+        <item>@drawable/meranti_merah_1</item>
+        <item>@drawable/meranti_putih_1</item>
+        <item>@drawable/merbau_1</item>
+        <item>@drawable/mersawa_1</item>
+        <item>@drawable/resak_1</item>
+        <item>@drawable/ulin_1</item>
+    </integer-array>
+</resources>
